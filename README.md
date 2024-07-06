@@ -1,4 +1,6 @@
-# Welcome to Dr. Md. Sazu Ahmad's Personal Archive
+# Dr Md Rahiqs Docs
+
+এখানে আমি; ডাঃ মোঃ সাজু আহমদ, আমার ব্যক্তিগত প্রয়োজনীয় কিছু ডকুমেন্ট, ছবি বিভিন্ন প্রয়োজনে ব্যবহারের জন্য গচ্ছিত রেখেছি।
 
 ## DHMS Certificate
 
@@ -6,12 +8,10 @@
 
 <a href="dhms-jannat-ara-jeba.jpg" target="_blank" title="Jannat Ara Jeba">Dr. Jannat Ara Jeba's Certificate</a>
 
-## Math Exam Paper
+## For Banking Needs
 
-<a href="math-exam-1st-page.jpg" target="_blank">Math Exam Paper 2nd Class 1st Page</a>
-
-<a href="math-exam-2nd-page.jpg" target="_blank">Math Exam Paper 2nd Class 2nd Page</a>
+<a href="ibbl-ibanking-reg.pdf" target="_blank" title="IBBL IBanking">Islami Bank Bangladesh PLC iBanking Registration Form</a>
 
 It's only need for personal use only!
 
-Prepared by <a href="https://homeopathytips.xyz/" target="_top">Dr. Md. Sazu Ahammed</a>.
+Prepared by <a href="https://homeopathytips.xyz/" target="_top">Dr. Md Sazu Ahammed</a>.
