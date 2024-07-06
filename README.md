@@ -8,6 +8,10 @@
 
 <a href="dhms-jannat-ara-jeba.jpg" target="_blank" title="Jannat Ara Jeba">Dr. Jannat Ara Jeba's Certificate</a>
 
+### For Banking Needs
+
+<a href="ibbl-ibanking-reg.pdf" target="_blank" title="IBBL IBanking">Islami Bank Bangladesh PLC iBanking Registration Form</a>
+
 It's only need for personal use only!
 
 Prepared by <a href="https://homeopathytips.xyz/" target="_top">Dr. Md Sazu Ahammed</a>.
