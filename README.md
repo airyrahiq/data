@@ -14,4 +14,4 @@
 
 It's only need for personal use only!
 
-Prepared by <a href="https://homeopathytips.xyz/" target="_top">Dr. Md Sazu Ahammed</a>.
+Prepared by <a href="https://hpathy.health.blog/" target="_top">Dr. Md Sazu Ahammed</a>.
