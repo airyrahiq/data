@@ -4,9 +4,11 @@
 
 ## DHMS Certificate
 
-<a href="dhms-certificate-saju-ahmed.jpg" target="_blank" title="Sabber Ahmad Rahiq">Dr. Sazu Ahmad's Certificate</a>
+<a href="homeo-registration-certificate.jpg" target="_blank" title="Homoeo Registration Certificate">Dr. Sazu Ahmad's DHMS Registration Certificate</a>
 
-<a href="dhms-certificate-jannat-ara-jeba.jpg" target="_blank" title="Jannat Ara Jeba">Dr. Jannat Ara Jeba's Certificate</a>
+<a href="dhms-certificate-saju-ahmed.jpg" target="_blank" title="Sabber Ahmad Rahiq">Dr. Sazu Ahmad's DHMS Certificate</a>
+
+<a href="dhms-certificate-jannat-ara-jeba.jpg" target="_blank" title="Jannat Ara Jeba">Dr. Jannat Ara Jeba's DHMS Certificate</a>
 
 ## For Banking Needs
 
